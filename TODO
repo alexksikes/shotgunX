@@ -1,0 +1,11 @@
+- evaluate on different metrics
+- compute NDCG at 0 - 5 as simply as doing NDCG at 5
+- enable hill climbing on combinaison of metrics
+- once best models are known make the ensemble and compute NDCG for each step.
+
+Orgnanize the code as such:
+
+tools/ : contains all programs used to run shotgun
+scripts/ : contains misc scripts used ina particular experiment
+lib/ : contains the files used by tools
+

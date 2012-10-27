@@ -1,0 +1,4 @@
+This is some old research code which implements Shotgun on prediction sets. It is useful in order to learn an ensemble of document rankers optimized on nDCG for example. This code is re-factored from some older code and has not been fully tested yet.
+
+Shotgun AKA Ensemble Selection is described here:
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.2859&rep=rep1&type=pdf
